@@ -18,7 +18,7 @@ print("# Date: 09-11-2018")
 print("# Exploit Author: Ege Balcı")
 print("# Vendor Homepage: https://www.lg.com")
 print("# Model: LNB*/LND*/LNU*/LNV*")
-print("# CVE: ???")
+print("# CVE: CVE-2018-16946")
 print("#==========================================================================#\n\n")
 
 model_version_list = ["2219.0.0.1505220","2745.0.0.1508190","1954.0.0.1410150", "1030.0.0.1310250"] 

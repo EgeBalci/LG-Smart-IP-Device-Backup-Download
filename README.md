@@ -6,8 +6,8 @@
 # Date: 09-11-2018
 # Exploit Author: Ege Balcı
 # Vendor Homepage: https://www.lg.com
-# Model: LNB*/LND*/LNU*/LNV*"
-# CVE: ???"
+# Model: LNB*/LND*/LNU*/LNV*
+# CVE: CVE-2018-16946
 #==========================================================================#
 ```
 
